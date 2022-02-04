@@ -1,7 +1,7 @@
 {
-    "name": "Asad Alexa",
-    "description": "Asad Alexa Is Telegram Advanced Bot To Mention All Members In Group.",
-    "logo": "https://telegra.ph/file/cb76d7f5dae14ec1e11c7.jpg",
+    "name": "RFC-TAG",
+    "description": "RFC-TAG Is Telegram Advanced Bot To Mention All Members In Group.",
+    "logo": "https://te.legra.ph/file/238425e66dd8137776b1b.jpg",
     "env": {
         "TOKEN": {
             "description": "Enter bot token."

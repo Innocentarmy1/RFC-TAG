@@ -1,4 +1,4 @@
 telethon
 cryptg
 asyncio
-pyrogra
+pyrogram

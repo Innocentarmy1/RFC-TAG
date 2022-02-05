@@ -1,7 +1,6 @@
-# A Powerful Music And Management Bot
-# Property Of Rocks Indian Largest Chatting Group
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali + Harshit Sharma + Abhimanyu Singh + Krishna Ki Diwani
+# Property Of RFC TEAM
+# Rocks © @deewana_mahadev_ka © RFC TEAM
+# Owner DESHANT MISHRA + ZEUS + UTKARSH + PANKAJ
 
 
 
@@ -32,20 +31,20 @@ spam_chats = []
 @client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
   await event.reply(
-    "**ʜᴇʟʟᴏ sᴡᴇᴇᴛ ʜᴇᴀʀᴛ ɪ ᴀᴍ ᴀsᴀᴅ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ** 👻\n**ᴄʟɪᴄᴋ ᴏɴ** /help **ғᴏʀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏsᴇʟғ**\n\n**ɢɪᴠᴇ ᴍᴇ ʜᴇᴀʀᴛ** [ʟᴏᴠᴇ](https://t.me/Give_Me_Heart) **ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ**",
+    "**ʜᴇʟʟᴏ FRIENDS ɪ ᴀᴍ RFC MENTION ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ** ❣️❣️❣️\n**ᴄʟɪᴄᴋ ᴏɴ** /help **ғᴏʀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏsᴇʟғ**\n\n**OWNER** [ʟᴏᴠᴇ](https://t.me/DEEWANA_MAHADEV_KA) **ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ**",
     link_preview=False,
     buttons=(
       [
         Button.url('⚙️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚙️', 'https://t.me/Alexa_MentionBot?startgroup=true'),
-        Button.url('👥 ɢʀᴏᴜᴘ 👥︎', 'https://t.me/Shayri_Music_Lovers'),
+        Button.url('👥 ɢʀᴏᴜᴘ 👥︎', 'https://t.me/RFC_TEAM'),
         ],
         [
-        Button.url('📣 ᴄʜᴀɴɴᴇʟ 📣️', 'https://t.me/AsadSupport'),
-        Button.url('👸 ǫᴜᴇᴇɴ 👸︎', 'https://t.me/Sonali_rajputt_Queen_Of_ROCKS'),
+        Button.url('📣 ᴄʜᴀɴɴᴇʟ 📣️', 'https://t.me/RFCTEAM'),
+        Button.url('OWNER ', 'https://t.me/DEEWANA_MAHADEV_KA'),
         ],
         [
-        Button.url('❤️ ʙʀᴏ ❤️️', 'https://t.me/HarshitSharma361'),
-        Button.url('👑 ᴋɪɴɢ 👑︎', 'https://t.me/Dr_Asad_Ali'),
+        Button.url('❤️ GROUP ❤️️', 'https://t.me/RFCSREYHFRIENDS'),
+        Button.url('STUDY GROUP', 'https://t.me/STUDYBUDDY_1'),
       ]
     )
   )
@@ -59,22 +58,22 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('❤️ ʜᴇᴀʀᴛ ❤️', 'https://t.me/Give_Me_Heart'),
-        Button.url('📽️ ʏᴏᴜᴛᴜʙᴇ 📽️', 'https://www.youtube.com/c/JankariKiDuniya')
+        Button.url('❤️ SUPPORT ❤️', 'https://t.me/RFC_TEAM'),
+        Button.url(' GROUP , 'https://t.me/RFCSREYHFRIENDS')
       ]
     )
   )
 
 @client.on(events.NewMessage(pattern="^/owner$"))
 async def help(event):
-  helptext = "**ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴀsᴀᴅ ᴀʟᴇxᴀ**\n\n**ᴍʏ ᴏᴡɴᴇʀ ɪs [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)**\n**__ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʀᴏᴄᴋs__**\n**ʏᴏᴜᴛᴜʙᴇ** [ᴄʜᴀɴɴᴇʟ](https://www.youtube.com/c/JankariKiDuniya)\n**ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ**."
+  helptext = "**ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ RFC MENTION**\n\n**ᴍʏ ᴏᴡɴᴇʀ ɪs [ᴀsᴀᴅ ᴀʟɪ](https://t.me/deewana_mahadev_ka)**\n**__ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʀᴏᴄᴋs__**\n**ʏᴏᴜᴛᴜʙᴇ** [Group](https://t.me/RFCSREYHFRIENDS)\n**ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ**."
   await event.reply(
     helptext,
     link_preview=False,
     buttons=(
       [
-        Button.url('❤️ ʜᴇᴀʀᴛ ❤️', 'https://t.me/Give_Me_Heart'),
-        Button.url('📽️ ʏᴏᴜᴛᴜʙᴇ 📽️', 'https://www.youtube.com/c/JankariKiDuniya')
+        Button.url('❤️ SUPPORT ❤️', 'https://t.me/RFC_TEAM'),
+        Button.url(' GROUP', 'https://t.me/RFCSREYHFRIENDS')
       ]
     )
   )
@@ -154,12 +153,11 @@ async def cancel_spam(event):
       pass
     return await event.respond('__Stopped.__')
 
-print(">> ASAD ALEXA WORKING <<")
+print(">> RFC-TAG WORKING <<")
 client.run_until_disconnected()
 
 
 
-# A Powerful Music And Management Bot
-# Property Of Rocks Indian Largest Chatting Group
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali + Harshit Sharma + Abhimanyu Singh + Krishna Ki Diwani
+# RFC TEAM MEMBERS
+# Rocks © @DEEWANA_MAHADEV_KA © RFC
+# Owner DESHANT MISHRA + ZEUS + UTKARSH + PANKAJ

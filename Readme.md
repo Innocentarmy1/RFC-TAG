@@ -1,6 +1,6 @@
 <h1 align="center"><b>❤️ RFC-TAG MENTION ALL BOT ❤️</b></h1>
 
-<h4 align="center">Asad Alexa A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
+<h4 align="center">RFC-TAG A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
 
 <p align="center"><a href="https://t.me/DEEWANA_MAHADEV_KA"><img src="https://te.legra.ph/file/db05bb1cca3de4ede2270.jpg" width="400"></a></p>
 
@@ -13,7 +13,7 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone for using Asad Alexa, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using TAG-MEMBER, That is the greatest pleasure we have !
 
 ## Avaiilable on Telegram as [🤗❣️❣️❣️❣️]()
 
@@ -27,7 +27,7 @@ The Easiest Way To Deploy This Bot Direct From GitHub
 
 The Easiest Way To Deploy This On Heroku For Any Browser Copy Link Supported
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/jankarikiduniya/Alexa-MentionAllBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/INNOCENTARMY1/RFC-TAG"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
  
 # ❤️ Support
@@ -39,5 +39,6 @@ The Easiest Way To Deploy This On Heroku For Any Browser Copy Link Supported
 ## CREDITS
 
 - [DESHANT](https://t.me/DEEWANA_MAHADEV_KA)
-- 
+
+
 - [RFC TEAM](https://t.me/RFC_TEAM)

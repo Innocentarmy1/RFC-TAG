@@ -35,7 +35,7 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('⚙️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚙️', 'https://t.me/Alexa_MentionBot?startgroup=true'),
+        Button.url('⚙️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚙️', 'https://t.me/Tag_member_robot?startgroup=true'),
         Button.url('👥 ɢʀᴏᴜᴘ 👥︎', 'https://t.me/RFC_TEAM'),
         ],
         [
